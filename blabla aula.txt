@@ -1,6 +1,4 @@
 linha 1
 linha 2
 linha 3 
-vamomeiras
-vasco
-delect
+line4
